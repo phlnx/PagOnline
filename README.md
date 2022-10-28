@@ -4,7 +4,7 @@ Igfs payment gateway sdk
 
 #Install
 
-`composer require skuola/pagonline`
+`composer require phlnx/pagonline`
 
 #Usage
 
